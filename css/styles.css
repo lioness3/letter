@@ -1,0 +1,7 @@
+.styledletter {
+  display: none;
+  border: solid lightskyblue;
+  border-width: thick;
+  padding: 10px;
+  border-radius: 25px;
+}
